@@ -1,11 +1,7 @@
-from transformers import pipeline
-import streamlit as st
-
-@st.cache_resource
-def get_sentiment_model():
-    return pipeline("sentiment-analysis")
+from textblob import TextBlob
 
 def get_sentiment_score(text):
-    model = get_sentiment_model()
-    result = model(text)[0]
-    return result["label"], round(result["score"], 2)
+    analysis = TextBlob(text)
+    polarity = analysis.sentiment.polarity
+    label = "POSITIVE" if polarity >= 0 else "NEGATIVE"
+    return label, round(abs(polarity), 2)
