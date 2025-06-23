@@ -1,9 +1,6 @@
 streamlit
+streamlit_folium
+textblob
 pandas
 folium
-streamlit-folium
 python-dotenv
-requests
-streamlit-js-eval
-textblob
-
