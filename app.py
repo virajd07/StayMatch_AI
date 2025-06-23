@@ -1,7 +1,6 @@
-import sys
-st.info(f"🧠 Python version: {sys.version}")
 import os
 import streamlit as st
+import sys
 import pandas as pd
 import folium
 from dotenv import load_dotenv
@@ -12,6 +11,7 @@ from utils.getlocation import get_user_coordinates, reverse_geocode
 from utils.map_utils import create_map
 from utils.voice_utils import voice_input_html
 from utils.sentiment import get_sentiment_score
+st.info(f"🧠 Python version: {sys.version}")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(BASE_DIR, "data", "pg_dataset_with_coords.csv")
