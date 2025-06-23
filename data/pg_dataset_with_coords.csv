@@ -1,0 +1,110 @@
+Name,Type,Area,City,Price,Amenities,Food Quality,Room Quality,Accommodations,Nearby Institutes,Nearby Hospitals,Nearby Malls,Latitude,Longitude,Reviews,Safety Score
+Shree Heights,Hostel,Andheri,Mumbai,12830,"CCTV, Mattress, Geyser, AC, Fridge",Good,Average,1,COEP,Ruby Hall,Inorbit Mall,19.261407,72.962912,"Rooms are average, but food is good",4.4
+Happy Heights,Hostel,Andheri,Mumbai,10181,"Mattress, Fridge, Gym, WiFi, Geyser",Average,Good,1,COEP,Nanavati,Inorbit Mall,19.213311,72.891834,Clean rooms but poor WiFi,4.8
+Happy Nest,Hostel,Baner,Pune,8479,"Gym, Mattress, TV, Geyser, Fridge",Good,Good,1,MIT,Ruby Hall,Seasons Mall,18.553125,73.780958,Affordable and peaceful environment,3.5
+Sai Heights,Hostel,Hinjewadi,Pune,5934,"Mattress, Geyser, AC, CCTV, Gym",Average,Excellent,3,COEP,Aditya Birla,Phoenix Marketcity,18.514869,73.720202,Clean rooms but poor WiFi,3.2
+Sai Villa,Hostel,Kothrud,Pune,6182,"Fridge, AC, Gym, Security, Geyser",Good,Excellent,1,COEP,Lilavati,Phoenix Marketcity,18.548548,73.78091,Very poor maintenance and rude owner,4.6
+Happy Homes,Flat,Kothrud,Pune,8831,"CCTV, Gym, WiFi, AC, Geyser",Poor,Excellent,3,SPPU,Aditya Birla,Inorbit Mall,18.565116,73.786117,"Rooms are average, but food is good",3.0
+Blue Heights,PG,Hinjewadi,Pune,13507,"Security, Mattress, Fridge, Laundry, CCTV",Good,Average,3,IIT Mumbai,Aditya Birla,Seasons Mall,18.592701,73.713289,Great food and friendly staff,3.1
+Shree Villa,Hostel,Vashi,Mumbai,4498,"Security, Fridge, Gym, Laundry, Mattress",Good,Average,1,MIT,Nanavati,Seasons Mall,19.296585,72.964414,Very poor maintenance and rude owner,3.2
+Blue Villa,PG,Baner,Pune,6742,"CCTV, Security, AC, Fridge, TV",Average,Excellent,3,COEP,Aditya Birla,Seasons Mall,18.548392,73.800195,Clean rooms but poor WiFi,2.8
+Shree Heights,Hostel,Baner,Pune,5979,"Mattress, WiFi, AC, CCTV, Laundry",Poor,Good,2,SPPU,Nanavati,Inorbit Mall,18.541263,73.868968,Great food and friendly staff,3.6
+Sai Homes,PG,Wakad,Pune,13615,"Laundry, Gym, Mattress, Fridge, Geyser",Good,Excellent,3,COEP,Aditya Birla,Seasons Mall,18.55038,73.731802,Very poor maintenance and rude owner,4.6
+Blue Nest,PG,Baner,Pune,10078,"Gym, AC, Laundry, TV, Security",Poor,Good,1,IIT Mumbai,Ruby Hall,Phoenix Marketcity,18.571387,73.818735,Affordable and peaceful environment,2.8
+Green Heights,Flat,Andheri,Mumbai,8699,"Geyser, Laundry, TV, Fridge, Mattress",Average,Average,3,MIT,Lilavati,Seasons Mall,19.189218,72.925511,Very poor maintenance and rude owner,4.1
+Green Nest,Flat,Powai,Mumbai,9141,"CCTV, Gym, Security, AC, TV",Average,Good,1,IIT Mumbai,Aditya Birla,Seasons Mall,19.134039,72.989826,Clean rooms but poor WiFi,3.6
+Sai Nest,Hostel,Borivali,Mumbai,7244,"Geyser, Laundry, Mattress, Fridge, Gym",Poor,Excellent,3,COEP,Ruby Hall,Seasons Mall,19.144851,72.99455,Very poor maintenance and rude owner,3.3
+Green Homes,PG,Andheri,Mumbai,10826,"Mattress, Geyser, Security, Fridge, CCTV",Average,Average,1,COEP,Nanavati,Inorbit Mall,19.27165,72.984,Clean rooms but poor WiFi,2.6
+Shree Homes,Hostel,Powai,Mumbai,7689,"Security, Laundry, Mattress, Fridge, Geyser",Poor,Good,3,MIT,Ruby Hall,Inorbit Mall,19.035828,72.958443,Clean rooms but poor WiFi,4.7
+Shree Nest,PG,Baner,Pune,5772,"Laundry, Mattress, Geyser, TV, Security",Average,Good,2,SPPU,Nanavati,Phoenix Marketcity,18.529027,73.706836,Affordable and peaceful environment,3.4
+Happy Heights,PG,Wakad,Pune,13423,"WiFi, Laundry, Fridge, Geyser, Mattress",Poor,Excellent,2,COEP,Lilavati,Phoenix Marketcity,18.588582,73.854818,Affordable and peaceful environment,2.9
+Green Villa,PG,Hinjewadi,Pune,12348,"WiFi, CCTV, TV, Gym, Mattress",Average,Good,2,COEP,Nanavati,Inorbit Mall,18.546782,73.764138,Great food and friendly staff,3.9
+Blue Heights,PG,Baner,Pune,11867,"Laundry, WiFi, TV, AC, Geyser",Average,Excellent,3,COEP,Lilavati,Inorbit Mall,18.503581,73.747754,Clean rooms but poor WiFi,4.5
+Happy Homes,Flat,Kothrud,Pune,8624,"CCTV, Gym, TV, Security, Mattress",Average,Excellent,2,IIT Mumbai,Nanavati,Inorbit Mall,18.553373,73.713617,Very poor maintenance and rude owner,2.9
+Blue Villa,Hostel,Powai,Mumbai,6779,"WiFi, CCTV, Laundry, Security, TV",Average,Good,2,SPPU,Lilavati,Inorbit Mall,19.281981,72.969773,Clean rooms but poor WiFi,4.8
+Shree Villa,PG,Borivali,Mumbai,6165,"Laundry, Geyser, Security, Fridge, AC",Good,Excellent,2,IIT Mumbai,Lilavati,Seasons Mall,19.075652,72.91099,"Rooms are average, but food is good",3.2
+Shree Nest,PG,Wakad,Pune,9639,"AC, Fridge, CCTV, Geyser, WiFi",Poor,Excellent,2,IIT Mumbai,Aditya Birla,Seasons Mall,18.566443,73.871503,Very poor maintenance and rude owner,2.6
+Blue Heights,Hostel,Kothrud,Pune,14287,"TV, Security, WiFi, Geyser, Laundry",Poor,Average,1,IIT Mumbai,Lilavati,Seasons Mall,18.57883,73.709685,"Rooms are average, but food is good",2.9
+Happy Nest,PG,Borivali,Mumbai,4339,"Gym, CCTV, Laundry, Mattress, AC",Poor,Average,1,SPPU,Lilavati,Inorbit Mall,19.030598,72.933484,Clean rooms but poor WiFi,2.6
+Blue Heights,PG,Aundh,Pune,10019,"Fridge, Mattress, Security, AC, WiFi",Good,Average,1,MIT,Aditya Birla,Phoenix Marketcity,18.501243,73.83265,Affordable and peaceful environment,3.6
+Sai Homes,Flat,Goregaon,Mumbai,5026,"AC, Security, TV, Gym, CCTV",Poor,Good,1,IIT Mumbai,Lilavati,Seasons Mall,19.266604,72.880693,Affordable and peaceful environment,2.8
+Blue Villa,PG,Kothrud,Pune,10418,"WiFi, Laundry, Mattress, TV, Gym",Good,Average,2,MIT,Lilavati,Inorbit Mall,18.539471,73.814646,Clean rooms but poor WiFi,4.6
+Happy Villa,Flat,Goregaon,Mumbai,10324,"Laundry, Fridge, AC, Gym, Mattress",Poor,Average,2,COEP,Nanavati,Seasons Mall,19.145033,72.922693,Great food and friendly staff,3.3
+Happy Nest,Hostel,Aundh,Pune,12594,"Security, TV, Geyser, Mattress, CCTV",Poor,Average,2,IIT Mumbai,Aditya Birla,Phoenix Marketcity,18.527813,73.724972,Very poor maintenance and rude owner,4.1
+Happy Nest,PG,Vashi,Mumbai,12799,"CCTV, Fridge, Geyser, Gym, Security",Average,Average,3,SPPU,Lilavati,Seasons Mall,19.033929,72.969233,"Rooms are average, but food is good",3.5
+Green Nest,Hostel,Wakad,Pune,8176,"CCTV, TV, Security, AC, WiFi",Average,Good,3,SPPU,Lilavati,Inorbit Mall,18.568513,73.878177,"Rooms are average, but food is good",4.3
+Shree Villa,Hostel,Kothrud,Pune,13307,"WiFi, CCTV, Gym, Fridge, TV",Average,Average,3,MIT,Lilavati,Seasons Mall,18.528235,73.729985,Great food and friendly staff,4.0
+Shree Nest,Hostel,Wakad,Pune,8591,"TV, Fridge, Mattress, Gym, CCTV",Good,Excellent,1,MIT,Nanavati,Inorbit Mall,18.50418,73.777892,"Rooms are average, but food is good",4.3
+Shree Homes,Flat,Borivali,Mumbai,6766,"WiFi, AC, Laundry, CCTV, Fridge",Good,Average,2,COEP,Aditya Birla,Seasons Mall,19.037914,72.920594,Clean rooms but poor WiFi,4.3
+Green Villa,PG,Hinjewadi,Pune,9949,"WiFi, AC, Laundry, CCTV, TV",Good,Good,3,MIT,Aditya Birla,Seasons Mall,18.51309,73.721522,Great food and friendly staff,3.2
+Happy Nest,Flat,Andheri,Mumbai,14499,"Geyser, Fridge, TV, Gym, Laundry",Average,Excellent,2,IIT Mumbai,Lilavati,Seasons Mall,19.235727,72.989816,Great food and friendly staff,4.3
+Shree Nest,PG,Vashi,Mumbai,10393,"Mattress, AC, Gym, Laundry, TV",Poor,Good,2,SPPU,Aditya Birla,Phoenix Marketcity,19.298226,72.909366,Clean rooms but poor WiFi,3.1
+Green Heights,PG,Andheri,Mumbai,12329,"WiFi, Fridge, AC, Geyser, Mattress",Average,Excellent,3,COEP,Aditya Birla,Phoenix Marketcity,19.173999,72.937895,"Rooms are average, but food is good",2.8
+Blue Villa,Hostel,Powai,Mumbai,11022,"Laundry, CCTV, Security, TV, Mattress",Poor,Average,1,MIT,Lilavati,Inorbit Mall,19.267268,72.966927,Affordable and peaceful environment,2.7
+Sai Heights,Hostel,Kothrud,Pune,13760,"Fridge, CCTV, Mattress, TV, Security",Average,Good,3,MIT,Lilavati,Seasons Mall,18.504121,73.876991,Great food and friendly staff,4.8
+Blue Nest,Flat,Kothrud,Pune,5998,"Gym, Mattress, CCTV, WiFi, Laundry",Good,Average,2,SPPU,Nanavati,Phoenix Marketcity,18.596045,73.839302,Affordable and peaceful environment,4.5
+Blue Nest,PG,Baner,Pune,11691,"Security, WiFi, CCTV, TV, Laundry",Good,Good,1,IIT Mumbai,Lilavati,Phoenix Marketcity,18.557446,73.846955,Clean rooms but poor WiFi,3.4
+Sai Heights,Hostel,Aundh,Pune,4195,"Security, AC, WiFi, Mattress, TV",Good,Good,3,SPPU,Ruby Hall,Inorbit Mall,18.567229,73.767229,Affordable and peaceful environment,3.8
+Happy Heights,Hostel,Borivali,Mumbai,14938,"Geyser, TV, AC, WiFi, Security",Average,Good,2,IIT Mumbai,Aditya Birla,Phoenix Marketcity,19.107759,72.811849,Great food and friendly staff,2.6
+Blue Nest,Hostel,Kothrud,Pune,14431,"AC, Fridge, Gym, Security, WiFi",Poor,Excellent,2,MIT,Nanavati,Seasons Mall,18.579467,73.708021,Clean rooms but poor WiFi,3.4
+Sai Homes,Hostel,Aundh,Pune,13511,"Gym, Fridge, Mattress, Laundry, Geyser",Poor,Excellent,3,COEP,Nanavati,Phoenix Marketcity,18.513557,73.852134,Very poor maintenance and rude owner,2.7
+Happy Heights,Hostel,Powai,Mumbai,12257,"Mattress, Laundry, AC, CCTV, Geyser",Poor,Excellent,1,COEP,Lilavati,Inorbit Mall,19.152028,72.824823,Affordable and peaceful environment,2.9
+Sai Villa,PG,Powai,Mumbai,11021,"TV, WiFi, Mattress, Fridge, Gym",Good,Excellent,1,IIT Mumbai,Ruby Hall,Inorbit Mall,19.094429,72.968723,Great food and friendly staff,3.9
+Shree Villa,Hostel,Goregaon,Mumbai,7574,"Mattress, Fridge, Gym, Security, AC",Good,Good,2,SPPU,Ruby Hall,Seasons Mall,19.048184,72.820526,Affordable and peaceful environment,3.8
+Happy Nest,Hostel,Wakad,Pune,6037,"Mattress, Geyser, Laundry, CCTV, TV",Good,Average,2,MIT,Aditya Birla,Seasons Mall,18.530303,73.713044,Great food and friendly staff,3.9
+Shree Homes,Hostel,Goregaon,Mumbai,9852,"Mattress, CCTV, AC, Laundry, Geyser",Average,Excellent,1,IIT Mumbai,Nanavati,Phoenix Marketcity,19.025863,72.812412,"Rooms are average, but food is good",3.1
+Happy Heights,Hostel,Vashi,Mumbai,13549,"WiFi, Fridge, AC, Mattress, Gym",Poor,Excellent,2,MIT,Nanavati,Inorbit Mall,19.231887,72.840552,Clean rooms but poor WiFi,2.5
+Green Villa,PG,Aundh,Pune,4354,"Security, Fridge, Laundry, Gym, AC",Average,Good,1,COEP,Aditya Birla,Phoenix Marketcity,18.584884,73.868764,Great food and friendly staff,4.6
+Shree Heights,Hostel,Borivali,Mumbai,6607,"Laundry, Mattress, Geyser, Security, Fridge",Poor,Good,3,IIT Mumbai,Aditya Birla,Inorbit Mall,19.046486,72.984412,Very poor maintenance and rude owner,4.4
+Happy Villa,Flat,Borivali,Mumbai,5492,"Mattress, Security, TV, Fridge, Gym",Poor,Excellent,3,SPPU,Aditya Birla,Phoenix Marketcity,19.038013,72.992806,Affordable and peaceful environment,3.3
+Green Nest,Hostel,Vashi,Mumbai,12867,"WiFi, Fridge, CCTV, TV, Mattress",Good,Good,3,MIT,Ruby Hall,Inorbit Mall,19.067907,72.942589,"Rooms are average, but food is good",4.6
+Sai Villa,Flat,Andheri,Mumbai,10173,"Laundry, Fridge, CCTV, Gym, Mattress",Good,Average,1,SPPU,Nanavati,Inorbit Mall,19.022721,72.869403,"Rooms are average, but food is good",2.8
+Happy Heights,Flat,Wakad,Pune,11168,"Mattress, Fridge, WiFi, Security, CCTV",Good,Excellent,3,COEP,Lilavati,Phoenix Marketcity,18.560547,73.70598,Affordable and peaceful environment,4.1
+Sai Heights,Flat,Wakad,Pune,14697,"Fridge, Geyser, Laundry, Security, WiFi",Poor,Good,3,COEP,Nanavati,Inorbit Mall,18.513142,73.734189,"Rooms are average, but food is good",2.8
+Happy Homes,Flat,Vashi,Mumbai,10352,"Geyser, Fridge, TV, Mattress, WiFi",Good,Average,3,SPPU,Nanavati,Phoenix Marketcity,19.058769,72.958782,"Rooms are average, but food is good",4.1
+Green Nest,Flat,Powai,Mumbai,13892,"CCTV, Laundry, TV, Geyser, Gym",Poor,Good,1,COEP,Aditya Birla,Inorbit Mall,19.177453,72.954686,Great food and friendly staff,3.7
+Shree Nest,Flat,Aundh,Pune,5123,"Mattress, Geyser, WiFi, AC, CCTV",Poor,Average,2,SPPU,Lilavati,Inorbit Mall,18.525752,73.880204,Affordable and peaceful environment,3.4
+Blue Heights,Hostel,Hinjewadi,Pune,10914,"WiFi, CCTV, Laundry, TV, Mattress",Average,Average,1,COEP,Nanavati,Phoenix Marketcity,18.50464,73.733676,Great food and friendly staff,3.3
+Sai Heights,PG,Borivali,Mumbai,4969,"AC, Geyser, Gym, Laundry, TV",Poor,Average,1,SPPU,Ruby Hall,Inorbit Mall,19.003394,72.878083,Affordable and peaceful environment,3.6
+Blue Villa,PG,Borivali,Mumbai,10931,"AC, Mattress, Fridge, Laundry, TV",Good,Good,2,COEP,Aditya Birla,Inorbit Mall,19.038455,72.900575,Clean rooms but poor WiFi,3.8
+Happy Heights,PG,Vashi,Mumbai,6956,"Security, AC, Geyser, CCTV, Laundry",Good,Excellent,3,IIT Mumbai,Ruby Hall,Seasons Mall,19.298571,72.96707,"Rooms are average, but food is good",2.7
+Happy Villa,Hostel,Andheri,Mumbai,12057,"WiFi, Gym, CCTV, Geyser, Fridge",Average,Excellent,1,SPPU,Ruby Hall,Seasons Mall,19.156975,72.828944,Great food and friendly staff,3.9
+Blue Homes,Hostel,Vashi,Mumbai,6422,"TV, Laundry, Security, Geyser, CCTV",Good,Good,1,IIT Mumbai,Nanavati,Phoenix Marketcity,19.264783,72.86732,"Rooms are average, but food is good",3.8
+Happy Homes,Flat,Borivali,Mumbai,12513,"Mattress, Gym, TV, CCTV, Fridge",Good,Average,3,SPPU,Lilavati,Inorbit Mall,19.183504,72.942433,Clean rooms but poor WiFi,2.8
+Happy Homes,Flat,Vashi,Mumbai,14649,"TV, Security, Gym, WiFi, CCTV",Average,Excellent,3,SPPU,Ruby Hall,Seasons Mall,19.284844,72.96214,Affordable and peaceful environment,4.2
+Green Heights,PG,Goregaon,Mumbai,10194,"Laundry, WiFi, CCTV, Geyser, Mattress",Average,Excellent,3,MIT,Aditya Birla,Seasons Mall,19.079903,72.893588,"Rooms are average, but food is good",2.8
+Happy Homes,PG,Vashi,Mumbai,6525,"TV, Laundry, Fridge, CCTV, Geyser",Poor,Excellent,3,MIT,Lilavati,Inorbit Mall,19.210494,72.947496,Affordable and peaceful environment,4.7
+Sai Heights,Hostel,Borivali,Mumbai,13217,"Security, AC, Gym, WiFi, CCTV",Average,Good,3,SPPU,Aditya Birla,Inorbit Mall,19.292034,72.831789,Clean rooms but poor WiFi,4.4
+Blue Heights,Hostel,Powai,Mumbai,9640,"AC, Geyser, WiFi, TV, Mattress",Good,Excellent,3,SPPU,Nanavati,Seasons Mall,19.280619,72.868091,Great food and friendly staff,3.0
+Sai Villa,Flat,Andheri,Mumbai,5317,"Fridge, TV, Gym, AC, Laundry",Good,Excellent,2,MIT,Ruby Hall,Phoenix Marketcity,19.116969,72.90409,Clean rooms but poor WiFi,3.7
+Shree Heights,Hostel,Hinjewadi,Pune,10454,"CCTV, AC, WiFi, Security, Gym",Average,Excellent,3,IIT Mumbai,Aditya Birla,Inorbit Mall,18.578926,73.872723,Very poor maintenance and rude owner,4.4
+Blue Villa,Flat,Borivali,Mumbai,4948,"AC, Mattress, Security, WiFi, Laundry",Good,Average,2,IIT Mumbai,Ruby Hall,Seasons Mall,19.014644,72.908693,Great food and friendly staff,3.3
+Shree Nest,PG,Wakad,Pune,7216,"Fridge, CCTV, AC, TV, Security",Poor,Excellent,3,IIT Mumbai,Ruby Hall,Inorbit Mall,18.548305,73.801047,Affordable and peaceful environment,3.5
+Shree Nest,Flat,Kothrud,Pune,7277,"WiFi, Laundry, AC, Security, TV",Good,Good,3,MIT,Aditya Birla,Seasons Mall,18.522207,73.801264,"Rooms are average, but food is good",2.9
+Happy Nest,Flat,Vashi,Mumbai,4055,"WiFi, AC, Gym, TV, CCTV",Poor,Average,2,COEP,Aditya Birla,Phoenix Marketcity,19.130914,72.895181,Clean rooms but poor WiFi,2.6
+Sai Heights,Flat,Kothrud,Pune,5783,"AC, WiFi, Gym, Geyser, Security",Good,Average,3,MIT,Lilavati,Inorbit Mall,18.530057,73.82391,Great food and friendly staff,2.6
+Green Nest,PG,Powai,Mumbai,11003,"Mattress, Gym, Laundry, CCTV, WiFi",Good,Good,1,COEP,Aditya Birla,Phoenix Marketcity,19.214761,72.887465,Great food and friendly staff,3.3
+Green Homes,Hostel,Andheri,Mumbai,14245,"Fridge, Gym, Geyser, AC, Laundry",Poor,Average,2,COEP,Ruby Hall,Inorbit Mall,19.037295,72.904951,Affordable and peaceful environment,3.6
+Sai Heights,Hostel,Borivali,Mumbai,12602,"TV, Gym, Laundry, Mattress, Fridge",Average,Average,2,COEP,Ruby Hall,Seasons Mall,19.212529,72.994201,Affordable and peaceful environment,3.7
+Blue Homes,Hostel,Andheri,Mumbai,12210,"Laundry, Gym, Mattress, Geyser, TV",Average,Good,1,IIT Mumbai,Ruby Hall,Seasons Mall,19.047472,72.898184,Affordable and peaceful environment,2.9
+Sai Nest,PG,Wakad,Pune,9346,"CCTV, Fridge, TV, WiFi, Mattress",Poor,Average,2,SPPU,Ruby Hall,Phoenix Marketcity,18.514315,73.876302,Affordable and peaceful environment,4.5
+Blue Nest,Hostel,Andheri,Mumbai,5782,"Laundry, Geyser, Mattress, TV, Fridge",Good,Average,1,SPPU,Ruby Hall,Inorbit Mall,19.22949,72.948508,"Rooms are average, but food is good",4.2
+Blue Nest,PG,Kothrud,Pune,5902,"TV, WiFi, Gym, AC, Geyser",Good,Excellent,1,COEP,Aditya Birla,Seasons Mall,18.548672,73.800255,"Rooms are average, but food is good",3.3
+Happy Villa,Flat,Powai,Mumbai,11878,"TV, Laundry, Geyser, Gym, CCTV",Good,Excellent,3,IIT Mumbai,Nanavati,Inorbit Mall,19.232278,72.952132,Clean rooms but poor WiFi,3.8
+Sai Homes,Flat,Andheri,Mumbai,9716,"Mattress, Gym, TV, Laundry, Security",Poor,Average,3,MIT,Ruby Hall,Seasons Mall,19.275771,72.911141,Great food and friendly staff,3.2
+Blue Villa,PG,Andheri,Mumbai,4655,"Security, TV, Fridge, Geyser, Laundry",Poor,Good,1,COEP,Aditya Birla,Phoenix Marketcity,19.216707,72.943749,Very poor maintenance and rude owner,3.7
+Happy Homes,PG,Andheri,Mumbai,13629,"Gym, Security, CCTV, WiFi, TV",Good,Excellent,2,MIT,Ruby Hall,Phoenix Marketcity,19.292786,72.969387,"Rooms are average, but food is good",4.0
+Happy Homes,Flat,Hinjewadi,Pune,6228,"Security, Gym, AC, Mattress, Geyser",Average,Good,1,MIT,Nanavati,Seasons Mall,18.584877,73.761763,Great food and friendly staff,4.7
+Sai Heights,Flat,Kothrud,Pune,14568,"TV, WiFi, CCTV, Gym, AC",Poor,Excellent,3,SPPU,Aditya Birla,Phoenix Marketcity,18.592816,73.86307,Affordable and peaceful environment,2.8
+Happy Villa,Flat,Baner,Pune,7099,"Security, WiFi, CCTV, Laundry, Gym",Good,Good,3,IIT Mumbai,Lilavati,Phoenix Marketcity,18.581904,73.782363,Very poor maintenance and rude owner,3.6
+Shree Heights,PG,Kothrud,Pune,5735,"AC, Geyser, Mattress, WiFi, CCTV",Good,Average,1,MIT,Nanavati,Phoenix Marketcity,18.533158,73.896562,Very poor maintenance and rude owner,3.3
+Green Heights,PG,Powai,Mumbai,5614,"Fridge, WiFi, AC, Laundry, Mattress",Good,Good,3,COEP,Nanavati,Inorbit Mall,19.058357,72.910786,Great food and friendly staff,2.6
+Green Villa,Hostel,Kothrud,Pune,11995,"Security, Gym, AC, Mattress, WiFi",Good,Excellent,3,COEP,Lilavati,Seasons Mall,18.546091,73.782439,"Rooms are average, but food is good",3.3
+Shree Heights,Flat,Hinjewadi,Pune,4798,"Geyser, Security, Fridge, WiFi, TV",Average,Average,1,SPPU,Lilavati,Inorbit Mall,18.569379,73.700164,Very poor maintenance and rude owner,4.1
+Sai Nest,Hostel,Aundh,Pune,6424,"Geyser, Security, Mattress, Gym, WiFi",Average,Good,1,MIT,Aditya Birla,Phoenix Marketcity,18.544441,73.829444,"Rooms are average, but food is good",3.1
+Happy Nest,PG,Wakad,Pune,6230,"AC, CCTV, Mattress, Gym, Fridge",Good,Excellent,1,SPPU,Ruby Hall,Seasons Mall,18.529672,73.821913,Great food and friendly staff,3.8
+Shree Heights,Flat,Kothrud,Pune,10026,"Gym, TV, WiFi, Security, Fridge",Good,Good,2,SPPU,Lilavati,Inorbit Mall,18.553277,73.817088,Very poor maintenance and rude owner,4.0
+Shree Heights,Hostel,Vashi,Mumbai,12351,"WiFi, Security, AC, TV, Fridge",Average,Average,1,IIT Mumbai,Nanavati,Seasons Mall,19.047097,72.939281,Great food and friendly staff,4.5
+Sai Heights,PG,Vashi,Mumbai,12251,"Mattress, Gym, Security, Geyser, CCTV",Good,Average,2,COEP,Lilavati,Seasons Mall,19.173468,72.888216,Clean rooms but poor WiFi,4.5
+Green Villa,Flat,Powai,Mumbai,7768,"Gym, CCTV, AC, Geyser, Security",Average,Average,3,IIT Mumbai,Lilavati,Inorbit Mall,19.168161,72.885551,Clean rooms but poor WiFi,2.8
+Happy Heights,PG,Vashi,Mumbai,12185,"AC, Security, Mattress, CCTV, Gym",Average,Average,1,MIT,Nanavati,Seasons Mall,19.120036,72.86047,Affordable and peaceful environment,4.1
