@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🏠 AI-Based PG / Hostel / Flat Recommender System
 
@@ -96,3 +97,6 @@ Your dataset should include:
 * Nearby Institutes, Hospitals, Malls
 * Reviews (for sentiment)
 * Safety Score (0–5)
+=======
+# StayMatch_AI
+>>>>>>> 8c2756b039c74f3d5366c53cb8bbc80c36686ca3
