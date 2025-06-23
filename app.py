@@ -1,3 +1,5 @@
+import sys
+st.info(f"🧠 Python version: {sys.version}")
 import os
 import streamlit as st
 import pandas as pd
