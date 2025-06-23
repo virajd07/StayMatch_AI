@@ -5,4 +5,5 @@ streamlit-folium
 python-dotenv
 requests
 streamlit-js-eval
-transformers
+textblob
+
